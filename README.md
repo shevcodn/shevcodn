@@ -9,8 +9,8 @@
 
 ---
 
-Self-taught developer with production experience in backend systems and fintech.  
-Shipped platforms serving real users with live payments, broker API integrations, and GPU-accelerated trading systems.  
+Self-taught developer with production experience in backend systems and fintech.
+Shipped platforms serving real users with live payments, broker API integrations, and GPU-accelerated trading systems.
 Fluent in AI-assisted development workflows. Currently completing an intensive Python engineering curriculum.
 
 ---
@@ -28,13 +28,9 @@ apis       = ["OANDA", "IBKR TWS", "Telegram Bot"]
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shevcodn&show_icons=true&theme=dark&hide_border=true&title_color=00ff88&icon_color=00ff88&text_color=cccccc&bg_color=0d0d0d)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shevcodn&layout=compact&theme=dark&hide_border=true&title_color=00ff88&text_color=cccccc&bg_color=0d0d0d&langs_count=6)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shevcodn&theme=dark&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&background=0d0d0d&sideLabels=cccccc&dates=888888)](https://git.io/streak-stats)
 
