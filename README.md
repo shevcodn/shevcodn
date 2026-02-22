@@ -37,6 +37,12 @@ apis       = ["OANDA", "IBKR TWS", "Telegram Bot"]
 
 </div>
 
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/shevcodn?theme=dark&font=JetBrains_Mono&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=cccccc&border_color=1e1e1e" />
+
+</div>
+
 ---
 
 <div align="center">
