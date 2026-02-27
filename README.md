@@ -23,20 +23,20 @@ backend    = ["FastAPI", "Node.js", "REST APIs"]
 databases  = ["PostgreSQL", "Redis", "Kafka"]
 cloud      = ["AWS S3", "Docker", "Vercel", "CI/CD"]
 ml_data    = ["XGBoost", "GAN", "CUDA", "pandas"]
-apis       = ["OANDA", "IBKR TWS", "Telegram Bot"]
+apis       = ["OANDA", "IBKR TWS", "Alpha Vantage", "Telegram Bot"]
 ```
 
 ---
 
 ### Projects
 
-```python
-# 🔒 private repo → github.com/shevcodn/projects
-```
+| # | Project | Stack | Try it |
+|---|---------|-------|--------|
+| 01 | [Stock Portfolio Tracker](https://github.com/shevcodn/projects) | Python · Alpha Vantage · LinkedList · HashMap | [![Run on Replit](https://replit.com/badge/github/shevcodn/projects)](https://replit.com/github/shevcodn/projects) |
+| 02 | Stock Portfolio API | FastAPI · PostgreSQL | 🔜 |
+| 03 | Real-time Dashboard | WebSockets · Redis | 🔜 |
 
-| Project | Stack | Status |
-|---|---|---|
-| [Stock Portfolio Tracker](https://github.com/shevcodn/projects) | Python · Alpha Vantage API · LinkedList · HashMap | 🔄 In Progress |
+*More coming — building p1→p1000 curriculum · [github.com/shevcodn/projects](https://github.com/shevcodn/projects)*
 
 ---
 
