@@ -28,6 +28,18 @@ apis       = ["OANDA", "IBKR TWS", "Telegram Bot"]
 
 ---
 
+### Projects
+
+```python
+# 🔒 private repo → github.com/shevcodn/projects
+```
+
+| Project | Stack | Status |
+|---|---|---|
+| [Stock Portfolio Tracker](https://github.com/shevcodn/projects) | Python · Alpha Vantage API · LinkedList · HashMap | 🔄 In Progress |
+
+---
+
 ### GitHub Activity
 
 <div align="center">
