@@ -30,13 +30,13 @@ apis       = ["OANDA", "IBKR TWS", "Alpha Vantage", "Telegram Bot"]
 
 ### Projects
 
-| # | Project | Stack | Try it |
-|---|---------|-------|--------|
-| 01 | [Stock Portfolio Tracker](https://github.com/shevcodn/projects) | Python · Alpha Vantage · LinkedList · HashMap | [![Run on Replit](https://replit.com/badge/github/shevcodn/projects)](https://replit.com/github/shevcodn/projects) |
-| 02 | Stock Portfolio API | FastAPI · PostgreSQL | 🔜 |
-| 03 | Real-time Dashboard | WebSockets · Redis | 🔜 |
+| # | Project | Stack | Demo |
+|---|---------|-------|------|
+| 01 | [Stock Portfolio Tracker](https://github.com/shevcodn/projects) | Python · Alpha Vantage · LinkedList · HashMap | [▶ Live](https://shevcodn.dev/#projects) |
+| 02 | Stock Portfolio API | FastAPI · PostgreSQL | 🔜 p700 |
+| 03 | Real-time Dashboard | WebSockets · Redis · React | 🔜 p800 |
 
-*More coming — building p1→p1000 curriculum · [github.com/shevcodn/projects](https://github.com/shevcodn/projects)*
+*Full roadmap → [github.com/shevcodn/projects](https://github.com/shevcodn/projects)*
 
 ---
 
