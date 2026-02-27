@@ -33,8 +33,8 @@ apis       = ["OANDA", "IBKR TWS", "Alpha Vantage", "Telegram Bot"]
 | # | Project | Stack | Demo |
 |---|---------|-------|------|
 | 01 | [Stock Portfolio Tracker](https://github.com/shevcodn/projects) | Python · Alpha Vantage · LinkedList · HashMap | [▶ Live](https://shevcodn.dev/#projects) |
-| 02 | Stock Portfolio API | FastAPI · PostgreSQL | 🔜 p700 |
-| 03 | Real-time Dashboard | WebSockets · Redis · React | 🔜 p800 |
+| 02 | TradeLedger API | FastAPI · PostgreSQL | 🔜 |
+| 03 | MarketPulse | WebSockets · Redis · React | 🔜 |
 
 *Full roadmap → [github.com/shevcodn/projects](https://github.com/shevcodn/projects)*
 
