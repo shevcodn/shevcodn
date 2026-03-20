@@ -5,8 +5,7 @@
 ---
 
 Self-taught Python developer in Toronto.
-Currently completing a structured 1000-task curriculum (728/1000 done) — Data Structures, Algorithms, FastAPI, PostgreSQL.
-Building practical CLI fintech tools from scratch and seeking my first junior Python role.
+Building practical Python tools from scratch — focused on backend development and fintech.
 
 ---
 
@@ -14,22 +13,8 @@ Building practical CLI fintech tools from scratch and seeking my first junior Py
 
 - **Languages**: Python, SQL
 - **Core**: Data Structures & Algorithms, OOP
-- **Backend**: FastAPI (basics), PostgreSQL (basics)
-- **Tools**: Git, Docker basics, Alpha Vantage API, Rich CLI
-
-### Current Focus
-
-- **python-dsa** — structured learning repo (728/1000 tasks)
-- Two live CLI projects with real data structures (see below)
-
-### Projects
-
-| # | Project | Stack | Live |
-|---|---------|-------|------|
-| 01 | [Stock Portfolio Tracker](https://github.com/shevcodn/stock-tracker) | Python · Alpha Vantage · LinkedList · HashMap | [▶ Live](https://shevcodn.dev/#project-01) |
-| 02 | [TradeLedger — CLI Trade Journal](https://github.com/shevcodn/tradeledger) | Python · Rich · Heap · Binary Search | [▶ Live](https://shevcodn.dev/#project-02) |
-
-Full curriculum → [github.com/shevcodn/python-dsa](https://github.com/shevcodn/python-dsa)
+- **Backend**: FastAPI, PostgreSQL
+- **Tools**: Git, Docker, Rich CLI
 
 ---
 
@@ -42,4 +27,4 @@ Full curriculum → [github.com/shevcodn/python-dsa](https://github.com/shevcodn
 
 ---
 
-**Open to junior Python opportunities in Toronto fintech — available immediately**
+**Open to junior Python opportunities in Toronto — available immediately**
